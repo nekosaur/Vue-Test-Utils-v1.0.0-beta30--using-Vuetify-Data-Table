@@ -1,16 +1,16 @@
 # Vue Test Utils v1.0.0.-beta30
 
-## Project setup
+## After Cloning/Downloading do the following
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Command to run the project
 ```
 npm run serve
 ```
 
-### Run your unit tests
+### Command to run unit tests
 ```
 npm run test:unit
 ```
